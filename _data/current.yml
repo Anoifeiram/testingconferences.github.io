@@ -1,9 +1,8 @@
 - name: Odin Testkonferansen Norway 2024
-  location: Oslo
-  dates: "September 26, 2024"
-  url: www.https://event.dataforeningen.no/odin/
-  twitter: N/A
-  status: Register for free as a<a href="https://event.dataforeningen.no/odin/"> </a>
+location: Oslo
+dates: "September 26, 2024"
+url: https://event.dataforeningen.no/odin/
+status: Call for paperes is open until March 15, 2024
 
 - name: ReTestBash UK 2023
   location: Online
